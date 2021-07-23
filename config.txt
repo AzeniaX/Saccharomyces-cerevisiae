@@ -1,0 +1,26 @@
+[Search]
+# Range of mid, default as 2000
+map size=2000
+# User's card number in asphyxia's website
+card num=
+
+[Directory]
+# Directory of sdvx@asphyxia's database
+# eg. db path=C:\MUG\asphyxia-core\savedata\sdvx@asphyxia.db
+db path=
+
+# Directory of sdvx HDD data
+# eg. game path=C:\MUG\SDVX6\KFC-2021051802\contents\data
+game path=
+
+# Directory where pictures output
+output path=
+
+[Plot]
+# name of skin, namely plot_{skin_name}.py, it has a corresponding folder in ./img_archive/
+# eg.skin name=gen6
+skin name=gen6
+
+[Init]
+# If you have updated your game, delete the following line
+
