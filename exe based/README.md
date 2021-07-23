@@ -5,12 +5,14 @@
 
 Saccharomyces-cerevisiae
 
-├───main.exe
+├─main.exe
 
-├───config.txt
+├─config.txt
 
-└───img_archive
+└─img_archive
 
-    ├───gen6
+  ├───gen6
     
-    └───maybe more
+  └───maybe more
+  
+由于用于绘图的素材直接dump了游戏本体文件，所以就不在这儿发了，群里自己找找吧（
